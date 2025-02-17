@@ -12,4 +12,6 @@ O objetivo é praticar e aprender mais sobre desenvolvimento web! 🚀</h3>
 <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
 <br>
 <img src="https://github.com/Kaelton1280/We--Care/blob/master/We%20care%20Notbook.png?raw=true">
+<br>
+<img src="https://github.com/Kaelton1280/We--Care/blob/master/celular.jpg?raw=true">
 
